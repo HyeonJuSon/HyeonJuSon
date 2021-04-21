@@ -1,4 +1,4 @@
-### Hi there 👋, SonHyeonJu
+### SonHyeonJu
 #### choppadontbiteme
 ![choppadontbiteme](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
