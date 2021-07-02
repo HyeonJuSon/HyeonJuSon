@@ -3,7 +3,7 @@
 #### choppadontbiteme
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={choppa})](https://solved.ac/{choppa})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=choppa)](https://solved.ac/choppa)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={choppa})](https://solved.ac/{choppa})
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={choppa})](https://solved.ac/{choppa})
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonJuSon&show_icons=true)  
