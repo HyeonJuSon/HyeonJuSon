@@ -1,4 +1,4 @@
-> <b>Intro</b>
+> <b>WELCOME</b>
 ### SonHyeonJu :thumbsup:
 #### choppadontbiteme
 
