@@ -1,17 +1,18 @@
 > <b>WELCOME</b>
 ### SonHyeonJu :thumbsup:
 
+<br /><br />
 
+> 🏆 AWARD
+### ■ [ UntacterView PJT ] Excellence Prize - Samsung Software Academy ( Samsung Elctronics )
+#### 　 ( # SpringBoot # Vuejs # WebRTC # Kurento Media Server # JPA # JAVA # MySQL # AWS EC2 )
 
-> GitHub Stat
+### ■ [ SGR PJT ] Excellence Prize - Samsung Software Academy ( Samsung Elctronics )
+#### 　 ( # Django # Vuejs # BigData # Python # SteamAPI # MySQL # AWS EC2 )
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonJuSon&show_icons=true)  
+<br /><br />
 
-> Solved Tier
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=choppa)](https://solved.ac/choppa)
 > Stack
-
 
 >> WEB
 <div class="row">
@@ -23,6 +24,7 @@
 <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src= "	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
+  <br /><br />
 
 >> Mobile Game
 <div class="row">
@@ -31,3 +33,14 @@
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 
 </div>
+<br /><br />
+> GitHub Stat
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonJuSon&show_icons=true)  
+<br /><br />
+
+> Solved Tier
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=choppa)](https://solved.ac/choppa)
+<br /><br />
+
