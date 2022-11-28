@@ -5,13 +5,9 @@
 
 > 🏆 AWARD
 ### ■ [ UntacterView PJT ] Excellence Prize - Samsung Software Academy ( Samsung Electronics )
-#### 　 ( # SpringBoot # Vuejs # WebRTC # Kurento Media Server # JPA # JAVA # MySQL # AWS EC2 )
-
 ### ■ [ SGR PJT ] Excellence Prize - Samsung Software Academy ( Samsung Electronics )
-#### 　 ( # Django # Vuejs # BigData # Python # SteamAPI # MySQL # AWS EC2 )
-
 ### ■ [ MCM PJT ] Excellence Prize - Samsung Software Academy ( Samsung Electronics )
-#### 　 ( # Unity # Vuejs # SpringBoot # OpenVidu # MySQL # AWS EC2 )
+
 
 <br /><br />
 
