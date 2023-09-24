@@ -1,13 +1,6 @@
 > <b>WELCOME</b>
 ### SonHyeonJu :thumbsup:
 
-<br /><br />
-
-> 🏆 AWARD
-### ■ [ UntacterView PJT ] Excellence Prize - Samsung Software Academy ( Samsung Electronics )
-### ■ [ SGR PJT ] Excellence Prize - Samsung Software Academy ( Samsung Electronics )
-### ■ [ MCM PJT ] Excellence Prize - Samsung Software Academy ( Samsung Electronics )
-
 
 <br /><br />
 
